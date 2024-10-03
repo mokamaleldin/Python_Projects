@@ -1,0 +1,40 @@
+# Task Description for Student Management Program
+
+## Purpose:
+This program allows users to manage a list of students. Users can add new students with their details, including name, age, grade, and scores for various subjects. It also provides the functionality to display all registered students and their information.
+
+## Features:
+1. **Add a New Student**:
+   - Users can input the student's name, age, and grade.
+   - Users can enter multiple subjects and their corresponding scores.
+   - After entering the scores, users can choose to add more subjects.
+
+2. **Show All Students**:
+   - Users can view the list of all registered students along with their details, including scores for each subject.
+   - If no students are registered, a message will be displayed indicating that there are no students.
+
+3. **Exit**:
+   - Users can exit the program safely.
+
+## How to Use:
+1. Run the program.
+2. Choose an option from the menu by entering the corresponding number:
+   - Enter `1` to add a new student.
+   - Enter `2` to display all students.
+   - Enter `3` to exit the program.
+3. Follow the prompts to enter the required information.
+
+## Input Requirements:
+- Student details (name, age, grade) must be entered as text.
+- Scores must be entered as integers.
+
+## Example Workflow:
+1. Select option `1` to add a new student.
+   - Enter the student's name, age, and grade.
+   - Input subject names and corresponding scores.
+   - Indicate if more subjects need to be added.
+2. Select option `2` to display all students and their scores.
+3. Select option `3` to exit the program.
+
+## Note:
+Ensure to handle invalid inputs where necessary to enhance user experience.
