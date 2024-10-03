@@ -13,28 +13,28 @@
 <pre><code>Python_project/
 │
 ├── /Beginner                  # Beginner level projects
-│   ├── /project1/             # First beginner project
-│   │   ├── task_description.txt # Task description for project 1
-│   │   └── code.py            # Code implementation for project 1
-│   └── /project2/             # Second beginner project
-│       ├── task_description.txt # Task description for project 2
-│       └── code.py            # Code implementation for project 2
+│   ├── /project1/             
+│   │   ├── task_description.txt 
+│   │   └── code.py            
+│   └── /project2/            
+│       ├── task_description.txt
+│       └── code.py         
 │
 ├── /Intermediate               # Intermediate level projects
-│   ├── /project1/             # First intermediate project
-│   │   ├── task_description.txt # Task description for project 1
-│   │   └── code.py            # Code implementation for project 1
-│   └── /project2/             # Second intermediate project
-│       ├── task_description.txt # Task description for project 2
-│       └── code.py            # Code implementation for project 2
+│   ├── /project1/           
+│   │   ├── task_description.txt
+│   │   └── code.py            
+│   └── /project2/             
+│       ├── task_description.txt 
+│       └── code.py         
 │
 └── /Advanced                   # Advanced level projects
-    ├── /project1/             # First advanced project
-    │   ├── task_description.txt # Task description for project 1
-    │   └── code.py            # Code implementation for project 1
-    └── /project2/             # Second advanced project
-        ├── task_description.txt # Task description for project 2
-        └── code.py            # Code implementation for project 2
+    ├── /project1/          
+    │   ├── task_description.txt 
+    │   └── code.py         
+    └── /project2/          
+        ├── task_description.txt
+        └── code.py         
 </code>
 </pre>
 
