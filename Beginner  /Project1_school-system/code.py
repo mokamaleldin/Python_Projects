@@ -16,12 +16,9 @@ while True:
             subject = input("Enter the subject name: ")
             score = int(input(f"Enter the score for {subject}: "))
             scores.append(f'{subject}: {score}')
-
-            # Add more subjects, yes or no
             more = input("Do you want to add more subjects (yes/no): ")
             if more != 'yes':
                 break
-        
         students.append({"name": name, "age": age, "grade": grade, "scores": scores})
         
     elif choice == "2":
