@@ -1,0 +1,6 @@
+#use for.split() and if to create a statement that will print out words that start with "s",
+#str="print only the words that start with s in this sentence"
+
+#use range() to print all the even numbers form 0 to 10
+
+#use a list comperhension to create a list of all numbers between 1 adn 50 that are divisivle by 3
