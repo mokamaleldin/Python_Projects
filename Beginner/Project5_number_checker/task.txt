@@ -1,0 +1,17 @@
+### USER CHOICE
+
+Write a function that repeatedly prompts the user to enter a number between 0 and 10.
+
+If the input is not a digit, display a message indicating it's not valid and prompt again.
+If the input is a digit but outside the acceptable range (0-10), inform the user and prompt again.
+If the input is a valid digit within the range, accept it and print the chosen number.
+
+EX:
+Input: Please enter a number (0-10): 15
+Output: Sorry, you are out of acceptable range (0-10)
+
+Input: Please enter a number (0-10): Hello
+Output: Sorry that is not a digit!
+
+Input: Please enter a number (0-10): 5
+Output: 5

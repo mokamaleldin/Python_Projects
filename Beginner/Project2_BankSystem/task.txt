@@ -1,0 +1,7 @@
+SIMPLE AUTHENTICATION AND SUBTRACTION
+Write a program that simulates a basic login and performs a subtraction operation if the login is successful.
+
+Prompt the user to enter an email and password.
+If both match the predefined values (email="mkee@gamil.com" and password=12345),
+ allow the user to enter a number to subtract from x=1000.
+If the email or password is incorrect, display an error message.

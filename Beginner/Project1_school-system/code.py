@@ -18,6 +18,7 @@ while True:
             scores.append(f'{subject}: {score}')
             more = input("Do you want to add more subjects (yes/no): ")
             if more != 'yes':
+                it
                 break
         students.append({"name": name, "age": age, "grade": grade, "scores": scores})
         
