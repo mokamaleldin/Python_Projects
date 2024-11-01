@@ -43,7 +43,7 @@
     <p>To get started with the projects:</p>
     <ol>
         <li>Clone the repository to your local machine:</li>
-        <pre><code>git clone https://github.com/your_username/Python_project.git</code></pre>
+        <pre><code>git clone https://github.com/mokamaleldin/Python_project.git</code></pre>
         <li>Navigate to the desired project folder.</li>
         <li>Open the <code>task_description.txt</code> file to understand what you need to do.</li>
         <li>Implement the solution in the <code>code.py</code> file.</li>
